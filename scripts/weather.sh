@@ -1,6 +1,6 @@
 #!/bin/bash
 
-API_KEY="ffd429e683762746ff8e45006cb1dde6"
+API_KEY=""
 CITY="Doha"
 COUNTRY="QA"
 
