@@ -40,7 +40,7 @@ Exec=conky -c /home/$USER/config/conky/slate-conky-theme/slate-conky.conf
 Name=slate-conky
 Type=Application
 ```
-![slate-conky-showcase](images/showcase.png)
+![slate-conky-showcase](images/showcase1.png)
 
 ===================================================================
 
