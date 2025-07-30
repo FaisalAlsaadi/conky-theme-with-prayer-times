@@ -1,5 +1,6 @@
 This is a fork of the very nice and clean Slate theme for conky found here https://github.com/CrispyKSP/slate-conky-theme
-Added some sections, such as:
+
+I Added some sections, such as:
 - prayer times (requires editing the prayer.sh script for your own location using the Aladhan API)
 - weather (requires a Openweather API key to put into the weather.sh script, it is free and requires that you make with an account)
 - dedicated CPU and GPU temp section
