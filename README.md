@@ -44,9 +44,14 @@ Type=Application
 ![slate-conky-showcase](images/showcase1.png)
 
 ===================================================================
+
 Aladhan and Openweather API keys:
 
-For prayer times, edit the prayer.sh script and change the second line to your country, city and measurement method. For more details about the measurement methods and their codes, please consult the Aladhan website here https://aladhan.com/prayer-times-api)
+
+For prayer times, edit the prayer.sh script and change the second line to your country, city and measurement method. 
+![prayer-script](images/prayer_script.png)
+For more details about the measurement methods and their codes, please consult the Aladhan website here https://aladhan.com/prayer-times-api)
 
 For weather, you need to make a free account at https://openweather.org and get your api key here https://home.openweathermap.org/api_keys and paste it into the weather.sh script, along with your city and country.
+![prayer-script](images/weather_script.png)
 
