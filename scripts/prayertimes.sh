@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# ENTER CITY AND COUNTY AND MEASUREMENT METHOD BELOW ACCORDING TO ALADHAN API https://aladhan.com/prayer-times-api
 json=$(curl -sL "https://api.aladhan.com/v1/timingsByCity?city=Doha&country=Qatar&method=10")
 
 if [[ -z "$json" ]]; then
