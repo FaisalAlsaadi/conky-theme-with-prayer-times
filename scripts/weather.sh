@@ -1,8 +1,8 @@
 #!/bin/bash
-
+#ENTER API KEY AND CITY AND COUNTRY BELOW
 API_KEY=""
-CITY="Doha"
-COUNTRY="QA"
+CITY=""
+COUNTRY=""
 
 response=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=${CITY},${COUNTRY}&units=metric&appid=${API_KEY}")
 if [[ $? -ne 0 || -z "$response" ]]; then
