@@ -2,7 +2,7 @@ This is a fork of the very nice and clean Slate theme for conky found here https
 
 I Added some sections, such as:
 - prayer times (requires editing the prayer.sh script for your own location using the Aladhan API)
-- weather (requires a Openweather API key to put into the weather.sh script, it is free and requires that you make with an account)
+- weather (requires a Openweather API key to put into the weather.sh script, you need to make a free account with them)
 - dedicated CPU and GPU temp section
 
 below are the instructions from the original project, with the showcase of the current theme. The section after that explains how to get the API keys for openweather and aladhan to customize the scripts for your location.
