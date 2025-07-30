@@ -1,14 +1,14 @@
 This is a fork of the very nice and clean Slate theme for conky found here https://github.com/CrispyKSP/slate-conky-theme
 
 I Added some sections, such as:
-- prayer times (requires editing the prayer.sh script for your own location using the Aladhan API)
-- weather (requires a Openweather API key to put into the weather.sh script, you need to make a free account with them)
+- prayer times (requires editing the prayer.sh script for your own location using the Aladhan API (last section explains in more details))
+- weather (requires a Openweather API key to put into the weather.sh script (last section explains in more detail))
 - dedicated CPU and GPU temp section
 
 below are the instructions from the original project, with the showcase of the current theme. The section after that explains how to get the API keys for openweather and aladhan to customize the scripts for your location.
 =============================================================
 
-a simpel conky config!
+a simple conky config!
 
 ## install:
 #### Debian/Ubuntu: 
@@ -43,5 +43,9 @@ Type=Application
 ![slate-conky-showcase](images/showcase1.png)
 
 ===================================================================
+Aladhan and Openweather API keys:
 
+For prayer times, edit the prayer.sh script and change the second line to your country, city and measurement method. For more details about the measurement methods and their codes, please consult the Aladhan website here https://aladhan.com/prayer-times-api)
+
+For weather, you need to make a free account at https://openweather.org and get your api key here https://home.openweathermap.org/api_keys and paste it into the weather.sh script, along with your city and country.
 
