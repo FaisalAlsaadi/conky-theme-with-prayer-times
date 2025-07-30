@@ -6,6 +6,7 @@ I Added some sections, such as:
 - dedicated CPU and GPU temp section
 
 below are the instructions from the original project, with the showcase of the current theme. The section after that explains how to get the API keys for openweather and aladhan to customize the scripts for your location.
+
 =============================================================
 
 a simple conky config!
